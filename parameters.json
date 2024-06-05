@@ -1,0 +1,35 @@
+{
+    "1.png": {
+        "bbox": [
+            395,
+            395,
+            685,
+            685
+        ],
+        "height": 290,
+        "width": 290,
+        "rotation": 0.0
+    },
+    "2.png": {
+        "bbox": [
+            403,
+            438,
+            616,
+            650
+        ],
+        "height": 213,
+        "width": 212,
+        "rotation": 0.0
+    },
+    "billboard.png": {
+        "bbox": [
+            283,
+            230,
+            687,
+            634
+        ],
+        "height": 404,
+        "width": 404,
+        "rotation": 0.0
+    }
+}
